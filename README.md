@@ -170,7 +170,7 @@ Disables Selfview
 Forces graphics quality to 1 (while being able to change render distance!)
 
 ```json
-{
+
   "DFIntDebugFRMQualityLevelOverride": 1
 }
 ```
